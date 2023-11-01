@@ -32,3 +32,16 @@ Antes de começar, certifique-se de que você tenha o ambiente de desenvolviment
 
 ```bash
 git clone https://github.com/Thalesmau/greengrocer-app.git
+```
+
+2. Navegue até a pasta do projeto:
+
+```bash
+cd greengrocer-app
+```
+
+3. Execute o aplicativo em seu dispositivo ou emulador:
+
+```bash
+flutter run
+```
